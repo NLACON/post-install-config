@@ -8,13 +8,14 @@ This tutorial demonstrates the setup and usage of prerequisites on the open-sour
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Post Installation & Ticketing Lifestyle](https://youtu.be/x7hH5rF3Lq4)
+- ### [YouTube: Post Installation & Ticketing Lifecycle](https://youtu.be/x7hH5rF3Lq4)
 
 
 <h2>Step By Step</h2>
 
-![Untitled image (5)](https://github.com/user-attachments/assets/48a2ae46-ffcb-415e-b52c-a3d23ddc72df)
-![Untitled image (6)](https://github.com/user-attachments/assets/c7cf7fd6-a189-469e-bee6-fbb0924d79d8)
+![image](https://github.com/user-attachments/assets/40922ce8-eb73-4969-b41e-2cdee62a6817)
+![Untitled image (10)](https://github.com/user-attachments/assets/34c8b0b5-b767-49da-8af6-6a308cb706a9)
+
 
 Post Installation Setup
 1. Configure Roles:
